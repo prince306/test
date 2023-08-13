@@ -1,5 +1,0 @@
-{{#user}
-Name: Prince Gupta
-Skills: HTML, CSS, JS, Next.js
-Email: pgrathup@gmail.com
-{{/user}}
